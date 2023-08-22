@@ -1,0 +1,9 @@
+welcome:
+  message: welcome to timesheet application dev profile
+
+
+
+server :
+  error :
+    path :
+

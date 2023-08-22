@@ -1,0 +1,15 @@
+spring:
+  flyway:
+    enabled : true
+    locations : db/migration
+  #DataBase Properties #
+  jpa:
+    database : mysql
+  datasource:
+    driver-class-name : com.mysql.cj.jdbc.Driver
+    timesheet:
+      hikari:
+        minimumIdle:10
+        maximumPoolSize:100
+        connection-timeout:25000
+        hikari.idle-timeout30000
