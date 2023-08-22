@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8d146d-7d69-4971-98cc-c63f0b04b4bc" name="Changes" comment="" />
+    <list default="true" id="6d8d146d-7d69-4971-98cc-c63f0b04b4bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,11 +35,13 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/thirukarthi/source/SpringCloudConfigclient",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "spring.configuration.checksum": "de2324cfac83890da06bcfa861aacd5c",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692396560454</updated>
       <workItem from="1692396561612" duration="5640000" />
-      <workItem from="1692665638068" duration="1649000" />
+      <workItem from="1692665638068" duration="3062000" />
     </task>
     <servers />
   </component>
